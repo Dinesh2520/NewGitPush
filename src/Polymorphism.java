@@ -23,7 +23,7 @@ public class Polymorphism {
 		b.sing();
 		Bird d = new Bird();
 		d.sing();
-		//New
+		//New change
 
 	}
 
